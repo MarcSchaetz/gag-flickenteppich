@@ -1,0 +1,1695 @@
+@prefix gft: <https://github.com/MarcSchaetz/gag-flickenteppich> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema:	<http://schema.org/> .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/1> a schema:PodcastEpisode ;
+	schema:name "GAG01: Vier Langobarden-Könige und ein Trinkbecher" ;
+	schema:episodeNumber 1 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/2> a schema:PodcastEpisode ;
+	schema:name "GAG02: Tatortschau mit Wiedererkennungswert" ;
+	schema:episodeNumber 2 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/3> a schema:PodcastEpisode ;
+	schema:name "GAG03: Fitness-Parcours für den Pharao" ;
+	schema:episodeNumber 3 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/4> a schema:PodcastEpisode ;
+	schema:name "GAG04: Wellingtons Rache, oder: Ein Bein für ein Königreich" ;
+	schema:episodeNumber 4 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/5> a schema:PodcastEpisode ;
+	schema:name "GAG05: Lernen Sie Geschichte!" ;
+	schema:episodeNumber 5 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/6> a schema:PodcastEpisode ;
+	schema:name "GAG06: Ada und die Pferdewetten" ;
+	schema:episodeNumber 6 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/7> a schema:PodcastEpisode ;
+	schema:name "GAG07: Geteilte Habsburger" ;
+	schema:episodeNumber 7 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/8> a schema:PodcastEpisode ;
+	schema:name "GAG08: Herr der Fliegen" ;
+	schema:episodeNumber 8 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/9> a schema:PodcastEpisode ;
+	schema:name "GAG09: Wer den englischen Parlamentsbrand auf dem Kerbholz hat" ;
+	schema:episodeNumber 9 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/10> a schema:PodcastEpisode ;
+	schema:name "GAG10: Craigslist in der Frühen Neuzeit" ;
+	schema:episodeNumber 10 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/11> a schema:PodcastEpisode ;
+	schema:name "GAG11: Von Kindern und Kegeln" ;
+	schema:episodeNumber 11 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/12> a schema:PodcastEpisode ;
+	schema:name "GAG12: Ein Kaiser, ein Gott, viele Todesfälle" ;
+	schema:episodeNumber 12 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/13> a schema:PodcastEpisode ;
+	schema:name "GAG13: Ein Spionagefall erschüttert die Habsburger Monarchie" ;
+	schema:episodeNumber 13 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/14> a schema:PodcastEpisode ;
+	schema:name "GAG14: Ein englisches Atlantis" ;
+	schema:episodeNumber 14 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/15> a schema:PodcastEpisode ;
+	schema:name "GAG15: Das Mailüfterl" ;
+	schema:episodeNumber 15 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/16> a schema:PodcastEpisode ;
+	schema:name "GAG16: Ton, Steine, Scherben oder wie Rom sich einen achten Hügel baute" ;
+	schema:episodeNumber 16 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/17> a schema:PodcastEpisode ;
+	schema:name "GAG17: Eine Urkunde, ein Zeltlager und eine Fälschung" ;
+	schema:episodeNumber 17 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/18> a schema:PodcastEpisode ;
+	schema:name "GAG18: Wie Russland den Bart verlor" ;
+	schema:episodeNumber 18 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/19> a schema:PodcastEpisode ;
+	schema:name "GAG19: Wenn ein Wissenschaftler an Drachen glaubt" ;
+	schema:episodeNumber 19 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/20> a schema:PodcastEpisode ;
+	schema:name "GAG20: Von Drachenknochen und Schildkrötenorakeln" ;
+	schema:episodeNumber 20 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/21> a schema:PodcastEpisode ;
+	schema:name "GAG21: Von der Erfindung der Einbauküche" ;
+	schema:episodeNumber 21 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/22> a schema:PodcastEpisode ;
+	schema:name "GAG22: Vom Goldjungen zum Staatsgefangenen" ;
+	schema:episodeNumber 22 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/23> a schema:PodcastEpisode ;
+	schema:name "GAG23: Ziemlich beste Feindschaft oder Die Anfänge der Bakteriologie" ;
+	schema:episodeNumber 23 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/24> a schema:PodcastEpisode ;
+	schema:name "GAG24: A French Connection, zum Scheitern verurteilt" ;
+	schema:episodeNumber 24 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/25> a schema:PodcastEpisode ;
+	schema:name "GAG25: Eine kaiserliche Bibliothek des Menschengeschlechts" ;
+	schema:episodeNumber 25 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/26> a schema:PodcastEpisode ;
+	schema:name "GAG26: Wie der Champagner zu seinen Bläschen kam" ;
+	schema:episodeNumber 26 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/27> a schema:PodcastEpisode ;
+	schema:name "GAG27: Die Rote Zora und ihre Vorfahren" ;
+	schema:episodeNumber 27 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/28> a schema:PodcastEpisode ;
+	schema:name "GAG28: Von Appenzellern, Bregenzern und einer Frau namens Guta" ;
+	schema:episodeNumber 28 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/29> a schema:PodcastEpisode ;
+	schema:name "GAG29: Ein Müller in den Fängen der Inquisition" ;
+	schema:episodeNumber 29 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/30> a schema:PodcastEpisode ;
+	schema:name "GAG30: Wie die Zeit zu unserer Zeit wurde" ;
+	schema:episodeNumber 30 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/31> a schema:PodcastEpisode ;
+	schema:name "GAG31: Blitzkrieg im Fußballstadion" ;
+	schema:episodeNumber 31 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/32> a schema:PodcastEpisode ;
+	schema:name "GAG32: Henry Gunther" ;
+	schema:episodeNumber 32 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/33> a schema:PodcastEpisode ;
+	schema:name "GAG33: Curta – eine Rechenmaschine und ihre Geschichte" ;
+	schema:episodeNumber 33 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/34> a schema:PodcastEpisode ;
+	schema:name "GAG34: Tee, Silber und Rauschmittel" ;
+	schema:episodeNumber 34 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/35> a schema:PodcastEpisode ;
+	schema:name "GAG35: Magia Posthuma – Vampirismus in Zeiten der Aufklärung" ;
+	schema:episodeNumber 35 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/36> a schema:PodcastEpisode ;
+	schema:name "GAG36: Eine sehr kurze Geschichte des Deodorants" ;
+	schema:episodeNumber 36 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/37> a schema:PodcastEpisode ;
+	schema:name "GAG37: Eine Reise um die Welt" ;
+	schema:episodeNumber 37 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/38> a schema:PodcastEpisode ;
+	schema:name "GAG38: Eine kurze Geschichte der Leibeigenschaft" ;
+	schema:episodeNumber 38 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/39> a schema:PodcastEpisode ;
+	schema:name "GAG39: Die Legion Erzengel Michael und Corneliu Codreanu" ;
+	schema:episodeNumber 39 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/40> a schema:PodcastEpisode ;
+	schema:name "GAG40: Über den Ursprung der Seidenstraße" ;
+	schema:episodeNumber 40 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/41> a schema:PodcastEpisode ;
+	schema:name "GAG41: Der Wiener Kreis und die Ermordung von Moritz Schlick" ;
+	schema:episodeNumber 41 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/42> a schema:PodcastEpisode ;
+	schema:name "GAG42: The City of Roses – Ein Rosengarten für Portland" ;
+	schema:episodeNumber 42 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/43> a schema:PodcastEpisode ;
+	schema:name "GAG43: Josef Eisemann, Seiltänzer in Wien" ;
+	schema:episodeNumber 43 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/44> a schema:PodcastEpisode ;
+	schema:name "GAG44: Eine kurze Geschichte der Süßigkeiten" ;
+	schema:episodeNumber 44 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/45> a schema:PodcastEpisode ;
+	schema:name "GAG45: Zwentendorf – Das sicherste Kernkraftwerk der Welt" ;
+	schema:episodeNumber 45 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/46> a schema:PodcastEpisode ;
+	schema:name "GAG46: Aufstieg und Fall der Republik Ragusa" ;
+	schema:episodeNumber 46 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/47> a schema:PodcastEpisode ;
+	schema:name "GAG47: Die Schwabenkinder und ihre Geschichte" ;
+	schema:episodeNumber 47 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/48> a schema:PodcastEpisode ;
+	schema:name "GAG48: George Ansons katastrophale Expedition – und ihre Folgen" ;
+	schema:episodeNumber 48 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/49> a schema:PodcastEpisode ;
+	schema:name "GAG49: Der »Dig Tree« und die erste Durchquerung Australiens" ;
+	schema:episodeNumber 49 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/50> a schema:PodcastEpisode ;
+	schema:name "GAG50: Ossian, ein altgälisches Epos wie keines davor" ;
+	schema:episodeNumber 50 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/51> a schema:PodcastEpisode ;
+	schema:name "GAG51: Eine kurze Geschichte der Rhythmologie und der Erforschung des Herzens" ;
+	schema:episodeNumber 51 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/52> a schema:PodcastEpisode ;
+	schema:name "GAG52: Die Geschichte der Annie Londonderry, „New Woman“ und Fahrradweltreisende" ;
+	schema:episodeNumber 52 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/53> a schema:PodcastEpisode ;
+	schema:name "GAG53: Ein Verrat und ein langer Strich auf der Berliner Mauer" ;
+	schema:episodeNumber 53 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/54> a schema:PodcastEpisode ;
+	schema:name "GAG54: Die erste Rektorin einer deutschen Universität" ;
+	schema:episodeNumber 54 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/55> a schema:PodcastEpisode ;
+	schema:name "GAG55: Der letzte Kammerdiener des alten Kaisers" ;
+	schema:episodeNumber 55 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/56> a schema:PodcastEpisode ;
+	schema:name "GAG56: Piggly Wiggly und die Geschichte des Supermarkts" ;
+	schema:episodeNumber 56 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/57> a schema:PodcastEpisode ;
+	schema:name "GAG57: Von Grabtüchern, Knochen und wieder mal Venedig" ;
+	schema:episodeNumber 57 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/58> a schema:PodcastEpisode ;
+	schema:name "GAG58: Londoner Kutschenstreit" ;
+	schema:episodeNumber 58 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/59> a schema:PodcastEpisode ;
+	schema:name "GAG59: The Lost Colony" ;
+	schema:episodeNumber 59 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/60> a schema:PodcastEpisode ;
+	schema:name "GAG60: Wie das Essengehen erfunden wurde" ;
+	schema:episodeNumber 60 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/61> a schema:PodcastEpisode ;
+	schema:name "GAG61: Die niederländische „Tulpenmanie“ (und warum sie gar nicht so schlimm war)" ;
+	schema:episodeNumber 61 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/62> a schema:PodcastEpisode ;
+	schema:name "GAG62: Eine kurze Geschichte der Rollschuhe und des Rollschuhfahrens" ;
+	schema:episodeNumber 62 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/63> a schema:PodcastEpisode ;
+	schema:name "GAG63: Konstantin und die Janitscharen" ;
+	schema:episodeNumber 63 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/64> a schema:PodcastEpisode ;
+	schema:name "GAG64: Paul Dirac und die Schönheit der Mathematik" ;
+	schema:episodeNumber 64 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/65> a schema:PodcastEpisode ;
+	schema:name "GAG65: Die Erfindung des diamantenen Verlobungsrings" ;
+	schema:episodeNumber 65 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/66> a schema:PodcastEpisode ;
+	schema:name "GAG66: Der Aufstieg Hamburgs – Fake it ‚til you make it" ;
+	schema:episodeNumber 66 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/67> a schema:PodcastEpisode ;
+	schema:name "GAG67: Palladio, der erfolgreichste Architekt aller Zeiten" ;
+	schema:episodeNumber 67 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/68> a schema:PodcastEpisode ;
+	schema:name "GAG68: Eine ganz kleine Geschichte der Mikroskopie" ;
+	schema:episodeNumber 68 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/69> a schema:PodcastEpisode ;
+	schema:name "GAG69: Die Boston Melasse Katastrophe" ;
+	schema:episodeNumber 69 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/70> a schema:PodcastEpisode ;
+	schema:name "GAG70: Die Würzburger Lügensteine" ;
+	schema:episodeNumber 70 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/71> a schema:PodcastEpisode ;
+	schema:name "GAG71: Wie die Kartoffel nach Europa kam (und alles veränderte)" ;
+	schema:episodeNumber 71 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/72> a schema:PodcastEpisode ;
+	schema:name "GAG72: Phantominseln" ;
+	schema:episodeNumber 72 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/73> a schema:PodcastEpisode ;
+	schema:name "GAG73: Ludwig XIV. und seine pikante Operation" ;
+	schema:episodeNumber 73 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/74> a schema:PodcastEpisode ;
+	schema:name "GAG74: Die Bonnot-Bande und die Erfindung des Fluchtautos" ;
+	schema:episodeNumber 74 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/75> a schema:PodcastEpisode ;
+	schema:name "GAG75: Sobhuza II., König von Swaziland" ;
+	schema:episodeNumber 75 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/76> a schema:PodcastEpisode ;
+	schema:name "GAG76: Holdouts – Japans vergessene Soldaten" ;
+	schema:episodeNumber 76 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/77> a schema:PodcastEpisode ;
+	schema:name "GAG77: Der Augsburger Kalenderstreit: Folgen eines tatsächlichen Zeitsprungs" ;
+	schema:episodeNumber 77 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/78> a schema:PodcastEpisode ;
+	schema:name "GAG78: Eine kurze Geschichte der Sommerzeit" ;
+	schema:episodeNumber 78 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/79> a schema:PodcastEpisode ;
+	schema:name "GAG79: Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda" ;
+	schema:episodeNumber 79 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/80> a schema:PodcastEpisode ;
+	schema:name "GAG80: Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden" ;
+	schema:episodeNumber 80 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/81> a schema:PodcastEpisode ;
+	schema:name "GAG81: Eine kurze Geschichte des Essbestecks (aber ohne Löffel)" ;
+	schema:episodeNumber 81 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/82> a schema:PodcastEpisode ;
+	schema:name "GAG82: Victor Gruen und die Erfindung des Einkaufszentrums" ;
+	schema:episodeNumber 82 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/83> a schema:PodcastEpisode ;
+	schema:name "GAG83: 100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege" ;
+	schema:episodeNumber 83 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/84> a schema:PodcastEpisode ;
+	schema:name "GAG84: Eine kleine Geschichte des Klimas und des Klimawandels" ;
+	schema:episodeNumber 84 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/85> a schema:PodcastEpisode ;
+	schema:name "GAG85: Ein Arm, ein Hai, ein Kriminalfall" ;
+	schema:episodeNumber 85 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/86> a schema:PodcastEpisode ;
+	schema:name "GAG86: Sabbatai Zwi – Der falsche Messias" ;
+	schema:episodeNumber 86 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/87> a schema:PodcastEpisode ;
+	schema:name "GAG87: Die Einführung von Freigeld und das Wunder von Wörgl" ;
+	schema:episodeNumber 87 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/88> a schema:PodcastEpisode ;
+	schema:name "GAG88: Von der Tanzwut und ihrer (wahrscheinlichen) Ursache" ;
+	schema:episodeNumber 88 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/89> a schema:PodcastEpisode ;
+	schema:name "GAG89: Seelenkonskription – die Anfänge der modernen Volkszählungen" ;
+	schema:episodeNumber 89 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/90> a schema:PodcastEpisode ;
+	schema:name "GAG90: Aufstieg und Fall des Roger Casement" ;
+	schema:episodeNumber 90 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/91> a schema:PodcastEpisode ;
+	schema:name "GAG91: Jan van Eyck – Der König unter den Malern und die Erfindung des Gemäldes" ;
+	schema:episodeNumber 91 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/92> a schema:PodcastEpisode ;
+	schema:name "GAG92: Die Geschichte der Typhoid Mary" ;
+	schema:episodeNumber 92 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/93> a schema:PodcastEpisode ;
+	schema:name "GAG93: Das Geheimnis des Lebens – Wie es zur Entdeckung der Doppelhelix kam" ;
+	schema:episodeNumber 93 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/94> a schema:PodcastEpisode ;
+	schema:name "GAG94: Wer zittert nicht vor den Mohocks?" ;
+	schema:episodeNumber 94 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/95> a schema:PodcastEpisode ;
+	schema:name "GAG95: Der Aufstieg des Jakob Fugger" ;
+	schema:episodeNumber 95 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/96> a schema:PodcastEpisode ;
+	schema:name "GAG96: Von der Entstehung des Croissants und anderen kulinarischen Mythen" ;
+	schema:episodeNumber 96 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/97> a schema:PodcastEpisode ;
+	schema:name "GAG97: Neutral-Moresnet – Ein Niemandsland mitten in Europa" ;
+	schema:episodeNumber 97 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/98> a schema:PodcastEpisode ;
+	schema:name "GAG98: Über Schoßhunde und gierige Affen" ;
+	schema:episodeNumber 98 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/99> a schema:PodcastEpisode ;
+	schema:name "GAG99: Ignaz Semmelweis und die Bekämpfung des Kindbettfiebers" ;
+	schema:episodeNumber 99 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/100> a schema:PodcastEpisode ;
+	schema:name "GAG100: Der Fall der „Mignonette“ und seine Folgen" ;
+	schema:episodeNumber 100 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/101> a schema:PodcastEpisode ;
+	schema:name "GAG101: Leon Theremin – Was die Anfänge der elektronischen Musik mit Überwachungstechniken zu tun haben" ;
+	schema:episodeNumber 101 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/102> a schema:PodcastEpisode ;
+	schema:name "GAG102: Ein Picknick, das die Welt verändert" ;
+	schema:episodeNumber 102 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/103> a schema:PodcastEpisode ;
+	schema:name "GAG103: Demoskopie – eine kurze Geschichte der (politischen) Meinungsforschung" ;
+	schema:episodeNumber 103 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/104> a schema:PodcastEpisode ;
+	schema:name "GAG104: Crécy – Chronik eines Versagens" ;
+	schema:episodeNumber 104 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/105> a schema:PodcastEpisode ;
+	schema:name "GAG105: Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens" ;
+	schema:episodeNumber 105 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/106> a schema:PodcastEpisode ;
+	schema:name "GAG106: Das Darién-Projekt und seine Folgen" ;
+	schema:episodeNumber 106 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/107> a schema:PodcastEpisode ;
+	schema:name "GAG107: Eine kurze Geschichte der Guillotine" ;
+	schema:episodeNumber 107 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/108> a schema:PodcastEpisode ;
+	schema:name "GAG108: Der Paderborner Kaffeelärm" ;
+	schema:episodeNumber 108 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/109> a schema:PodcastEpisode ;
+	schema:name "GAG109: Der Lotterieaufstand in Albanien" ;
+	schema:episodeNumber 109 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/110> a schema:PodcastEpisode ;
+	schema:name "GAG110: 110, 112, 999, etc." ;
+	schema:episodeNumber 110 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/111> a schema:PodcastEpisode ;
+	schema:name "GAG111: Die Anfänge des Esperanto" ;
+	schema:episodeNumber 111 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/112> a schema:PodcastEpisode ;
+	schema:name "GAG112: Adele Spitzeder und die „Dachauer Bank“" ;
+	schema:episodeNumber 112 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/113> a schema:PodcastEpisode ;
+	schema:name "GAG113: Die Hep-Hep-Unruhen von 1819" ;
+	schema:episodeNumber 113 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/114> a schema:PodcastEpisode ;
+	schema:name "GAG114: Gerhard Zucker und sein Raketentraum" ;
+	schema:episodeNumber 114 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/115> a schema:PodcastEpisode ;
+	schema:name "GAG115: Eine kurze Geschichte der Hanse" ;
+	schema:episodeNumber 115 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/116> a schema:PodcastEpisode ;
+	schema:name "GAG116: Über Basken, Wale und ein Massaker auf Island" ;
+	schema:episodeNumber 116 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/117> a schema:PodcastEpisode ;
+	schema:name "GAG117: Tunix, Tuwat und die Entstehung des Chaos Computer Clubs" ;
+	schema:episodeNumber 117 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/118> a schema:PodcastEpisode ;
+	schema:name "GAG118: Ein Werwolf in Livland" ;
+	schema:episodeNumber 118 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/119> a schema:PodcastEpisode ;
+	schema:name "GAG119: Die NS-Thingbewegung – Thingstätten und Thingspiele" ;
+	schema:episodeNumber 119 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/120> a schema:PodcastEpisode ;
+	schema:name "GAG120: Die Rückkehr des Martin Guerre" ;
+	schema:episodeNumber 120 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/121> a schema:PodcastEpisode ;
+	schema:name "GAG121: Leopardenmorde und Leopardenmenschen" ;
+	schema:episodeNumber 121 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/122> a schema:PodcastEpisode ;
+	schema:name "GAG122: Die Belagerung von Masada" ;
+	schema:episodeNumber 122 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/123> a schema:PodcastEpisode ;
+	schema:name "GAG123: Christian Gottlieb Prieber – Aussteiger, Renegade und beinahe vergessener Utopist" ;
+	schema:episodeNumber 123 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/124> a schema:PodcastEpisode ;
+	schema:name "GAG124: Eine kleine Geschichte des Chinese Restaurant Syndroms" ;
+	schema:episodeNumber 124 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/125> a schema:PodcastEpisode ;
+	schema:name "GAG125: Republik Fredonia" ;
+	schema:episodeNumber 125 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/126> a schema:PodcastEpisode ;
+	schema:name "GAG126: Für immer im Eis – die Franklin Expedition" ;
+	schema:episodeNumber 126 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/127> a schema:PodcastEpisode ;
+	schema:name "GAG127: Struensee – Aufstieg und Fall eines Arztes, der (für kurze Zeit) zum dänischen Regenten wurde" ;
+	schema:episodeNumber 127 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/128> a schema:PodcastEpisode ;
+	schema:name "GAG128: Crash at Crush" ;
+	schema:episodeNumber 128 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/129> a schema:PodcastEpisode ;
+	schema:name "GAG129: Die Entdeckung der Dinosaurier" ;
+	schema:episodeNumber 129 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/130> a schema:PodcastEpisode ;
+	schema:name "GAG130: Alexander von Abonuteichos oder Wie ein Kult entsteht" ;
+	schema:episodeNumber 130 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/131> a schema:PodcastEpisode ;
+	schema:name "GAG131: Strathclyde – ein (fast) vergessenes Königreich" ;
+	schema:episodeNumber 131 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/132> a schema:PodcastEpisode ;
+	schema:name "GAG132: Gesche Gottfried, der Engel von Bremen" ;
+	schema:episodeNumber 132 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/133> a schema:PodcastEpisode ;
+	schema:name "GAG133: Alexios Komnenos und der Erste Kreuzzug" ;
+	schema:episodeNumber 133 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/134> a schema:PodcastEpisode ;
+	schema:name "GAG134: Eine kleine Geschichte des Kaiserschnitts anhand der Personen Jacob Nufer, James Barry und Margret Ann Bulkley" ;
+	schema:episodeNumber 134 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/135> a schema:PodcastEpisode ;
+	schema:name "GAG135: Adolf Loos" ;
+	schema:episodeNumber 135 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/136> a schema:PodcastEpisode ;
+	schema:name "GAG136: Der Jüdische Friedhof Währing" ;
+	schema:episodeNumber 136 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/137> a schema:PodcastEpisode ;
+	schema:name "GAG137: Die Französisch-Britische Union" ;
+	schema:episodeNumber 137 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/138> a schema:PodcastEpisode ;
+	schema:name "GAG138: Askari und die Kolonialgeschichte des Deutschen Reichs" ;
+	schema:episodeNumber 138 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/139> a schema:PodcastEpisode ;
+	schema:name "GAG139: Als Voltaire die Lotterie knackte und steinreich wurde" ;
+	schema:episodeNumber 139 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/140> a schema:PodcastEpisode ;
+	schema:name "GAG140: Eisbrecher für die Diplomatie – das Fußball-Länderspiel Sowjetunion gegen die BRD 1955" ;
+	schema:episodeNumber 140 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/141> a schema:PodcastEpisode ;
+	schema:name "GAG141: Die kurze Geschichte des Kokovorismus" ;
+	schema:episodeNumber 141 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/142> a schema:PodcastEpisode ;
+	schema:name "GAG142: Bertha Pappenheim – Gründerin des Jüdischen Frauenbundes und Sozialpionierin" ;
+	schema:episodeNumber 142 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/143> a schema:PodcastEpisode ;
+	schema:name "GAG143: Über Marsmenschen, Massenpanik und die Entstehung eines Mythos" ;
+	schema:episodeNumber 143 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/144> a schema:PodcastEpisode ;
+	schema:name "GAG144: Die Spanische Grippe" ;
+	schema:episodeNumber 144 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/145> a schema:PodcastEpisode ;
+	schema:name "GAG145: Barbara von Cilli oder Wie eine 100 mal wiederholte Lüge zur Wahrheit wird" ;
+	schema:episodeNumber 145 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/146> a schema:PodcastEpisode ;
+	schema:name "GAG146: Tripel-Allianz-Krieg" ;
+	schema:episodeNumber 146 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/147> a schema:PodcastEpisode ;
+	schema:name "GAG147: Das Fräulein vom Amt" ;
+	schema:episodeNumber 147 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/148> a schema:PodcastEpisode ;
+	schema:name "GAG148: Das Ende der Welt – Friedenskaiser und falsche Friedriche" ;
+	schema:episodeNumber 148 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/149> a schema:PodcastEpisode ;
+	schema:name "GAG149: Die Kabeljaukriege" ;
+	schema:episodeNumber 149 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/150> a schema:PodcastEpisode ;
+	schema:name "GAG150: Die Geschichte des Filmstudios Bendestorf" ;
+	schema:episodeNumber 150 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/151> a schema:PodcastEpisode ;
+	schema:name "GAG151: Manjirō, der erste Japaner in Amerika" ;
+	schema:episodeNumber 151 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/152> a schema:PodcastEpisode ;
+	schema:name "GAG152: Ernest Shackleton und die Endurance-Expedition" ;
+	schema:episodeNumber 152 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/153> a schema:PodcastEpisode ;
+	schema:name "GAG153: Wien-Tour mit Thomas Harbich (#WienFakt)" ;
+	schema:episodeNumber 153 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/154> a schema:PodcastEpisode ;
+	schema:name "GAG154: La Maupin, die duellierende Opernsängerin" ;
+	schema:episodeNumber 154 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/155> a schema:PodcastEpisode ;
+	schema:name "GAG155: Trofim Lyssenko und der Lyssenkoismus in der Sowjetunion" ;
+	schema:episodeNumber 155 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/156> a schema:PodcastEpisode ;
+	schema:name "GAG156: Charles Lindbergh, Alexis Carrel und die Mensch-Maschine" ;
+	schema:episodeNumber 156 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/157> a schema:PodcastEpisode ;
+	schema:name "GAG157: Salpeter – Aufstieg und Fall einer chemischen Verbindung" ;
+	schema:episodeNumber 157 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/158> a schema:PodcastEpisode ;
+	schema:name "GAG158: Al-Biruni und die erste Globalgeschichte" ;
+	schema:episodeNumber 158 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/159> a schema:PodcastEpisode ;
+	schema:name "GAG159: Thorsten Logge über Geschichte und Public History" ;
+	schema:episodeNumber 159 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/160> a schema:PodcastEpisode ;
+	schema:name "GAG160: Barbareskenstaaten und die europäischen Seemächte" ;
+	schema:episodeNumber 160 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/161> a schema:PodcastEpisode ;
+	schema:name "GAG161: Steamboat Arabia oder Der Schatz im Maisfeld" ;
+	schema:episodeNumber 161 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/162> a schema:PodcastEpisode ;
+	schema:name "GAG162: Novemberrevolution und die mehrfache Ausrufung der Republik" ;
+	schema:episodeNumber 162 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/163> a schema:PodcastEpisode ;
+	schema:name "GAG163: Vernepator Cur – der Hund im Hamsterrad" ;
+	schema:episodeNumber 163 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/164> a schema:PodcastEpisode ;
+	schema:name "GAG164: Eine kurze Geschichte des Alkoholkonsums" ;
+	schema:episodeNumber 164 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/165> a schema:PodcastEpisode ;
+	schema:name "GAG165: Pius IX. und die kurzlebige Römische Republik von 1849" ;
+	schema:episodeNumber 165 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/166> a schema:PodcastEpisode ;
+	schema:name "GAG166: Siegmund Bosel – die wechselvolle Geschichte eines Inflationskönigs" ;
+	schema:episodeNumber 166 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/167> a schema:PodcastEpisode ;
+	schema:name "GAG167: Mary Toft und die Hasen" ;
+	schema:episodeNumber 167 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/168> a schema:PodcastEpisode ;
+	schema:name "GAG168: Carl Laemmle und die Anfänge Hollywoods" ;
+	schema:episodeNumber 168 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/169> a schema:PodcastEpisode ;
+	schema:name "GAG169: Maos Großer Sprung und die chinesische Hungersnot von 1958–62" ;
+	schema:episodeNumber 169 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/170> a schema:PodcastEpisode ;
+	schema:name "GAG170: Auf Schatzsuche" ;
+	schema:episodeNumber 170 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/171> a schema:PodcastEpisode ;
+	schema:name "GAG171: Eine ganz kleine Geschichte der Nacht und des Schlafs" ;
+	schema:episodeNumber 171 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/172> a schema:PodcastEpisode ;
+	schema:name "GAG172: Eine kurze Geschichte der Armut in der Frühen Neuzeit" ;
+	schema:episodeNumber 172 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/173> a schema:PodcastEpisode ;
+	schema:name "GAG173: Der gefährliche Garten von Vaux-le-Vicomte" ;
+	schema:episodeNumber 173 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/174> a schema:PodcastEpisode ;
+	schema:name "GAG174: Harriet Tubman und die Underground Railroad" ;
+	schema:episodeNumber 174 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/175> a schema:PodcastEpisode ;
+	schema:name "GAG175: C.W. Field und das erste Kabel durch den Atlantik" ;
+	schema:episodeNumber 175 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/176> a schema:PodcastEpisode ;
+	schema:name "GAG176: Die Anfänge des Anarchismus und was Uhrmacher in der Schweiz damit zu tun haben" ;
+	schema:episodeNumber 176 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/177> a schema:PodcastEpisode ;
+	schema:name "GAG177: Robert Fortune, Botaniker und Teespion" ;
+	schema:episodeNumber 177 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/178> a schema:PodcastEpisode ;
+	schema:name "GAG178: Der Klosterskandal von Sant’Ambrogio" ;
+	schema:episodeNumber 178 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/179> a schema:PodcastEpisode ;
+	schema:name "GAG179: Maria Sibylla Merian – Naturforscherin und Künstlerin" ;
+	schema:episodeNumber 179 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/180> a schema:PodcastEpisode ;
+	schema:name "GAG180: Die Gelbe Flotte – ein Schiffskonvoi zwischen den Fronten" ;
+	schema:episodeNumber 180 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/181> a schema:PodcastEpisode ;
+	schema:name "GAG181: Von Gulasch, Pörkölt und Nationalgerichten" ;
+	schema:episodeNumber 181 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/182> a schema:PodcastEpisode ;
+	schema:name "GAG182: Der Zündholzkönig Ivar Kreuger" ;
+	schema:episodeNumber 182 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/183> a schema:PodcastEpisode ;
+	schema:name "GAG183: Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit" ;
+	schema:episodeNumber 183 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/184> a schema:PodcastEpisode ;
+	schema:name "GAG184: Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit" ;
+	schema:episodeNumber 184 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/185> a schema:PodcastEpisode ;
+	schema:name "GAG185: Kleindeutschland und die General Slocum Katastrophe" ;
+	schema:episodeNumber 185 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/186> a schema:PodcastEpisode ;
+	schema:name "GAG186: Die Redlichen Pioniere von Rochdale und eine kurze Geschichte der Genossenschaften" ;
+	schema:episodeNumber 186 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/187> a schema:PodcastEpisode ;
+	schema:name "GAG187: Die Wiener Weltausstellung von 1873" ;
+	schema:episodeNumber 187 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/188> a schema:PodcastEpisode ;
+	schema:name "GAG188: Martin Couney und die Inkubator-Ausstellungen" ;
+	schema:episodeNumber 188 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/189> a schema:PodcastEpisode ;
+	schema:name "GAG189: Die Schlacht bei Cannae" ;
+	schema:episodeNumber 189 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/190> a schema:PodcastEpisode ;
+	schema:name "GAG190: Die Assassinen" ;
+	schema:episodeNumber 190 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/191> a schema:PodcastEpisode ;
+	schema:name "GAG191: Aethelfled – Warrior Queen of Mercia" ;
+	schema:episodeNumber 191 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/192> a schema:PodcastEpisode ;
+	schema:name "GAG192: Tiere vor Gericht" ;
+	schema:episodeNumber 192 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/193> a schema:PodcastEpisode ;
+	schema:name "GAG193: Kanton Übrig – Wie Vorarlberg 1919 nicht der Schweiz beitrat" ;
+	schema:episodeNumber 193 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/194> a schema:PodcastEpisode ;
+	schema:name "GAG194: Die Natchez und der französische Kolonialismus in Nordamerika" ;
+	schema:episodeNumber 194 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/195> a schema:PodcastEpisode ;
+	schema:name "GAG195: Wie Gerta Stern auf der Flucht nach Panama ihren Mann aus dem KZ befreite" ;
+	schema:episodeNumber 195 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/196> a schema:PodcastEpisode ;
+	schema:name "GAG196: Wie der Panamakanal entstand" ;
+	schema:episodeNumber 196 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/197> a schema:PodcastEpisode ;
+	schema:name "GAG197: Das kurzlebige Königreich Finnland – und ein deutscher Adliger auf dem Thron" ;
+	schema:episodeNumber 197 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/198> a schema:PodcastEpisode ;
+	schema:name "GAG198: Olga von Kiew oder Mit den Spatzen kam der Tod" ;
+	schema:episodeNumber 198 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/199> a schema:PodcastEpisode ;
+	schema:name "GAG199: UC 71 und der U-Boot-Krieg im Ersten Weltkrieg" ;
+	schema:episodeNumber 199 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/200> a schema:PodcastEpisode ;
+	schema:name "GAG200: Eine Abrechnung" ;
+	schema:episodeNumber 200 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/201> a schema:PodcastEpisode ;
+	schema:name "GAG201: Eine kleine Geschichte des Speiseeises" ;
+	schema:episodeNumber 201 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/202> a schema:PodcastEpisode ;
+	schema:name "GAG202: Über Brunzdoktoren und Uroskopie – die Harnschau in der vormodernen Medizin" ;
+	schema:episodeNumber 202 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/203> a schema:PodcastEpisode ;
+	schema:name "GAG203: Bleiben oder gehen? Die Option in Südtirol 1939" ;
+	schema:episodeNumber 203 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/204> a schema:PodcastEpisode ;
+	schema:name "GAG204: Obaysch – das viktorianische Nilpferd" ;
+	schema:episodeNumber 204 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/205> a schema:PodcastEpisode ;
+	schema:name "GAG205: Die Befreiung von Schloss Itter" ;
+	schema:episodeNumber 205 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/206> a schema:PodcastEpisode ;
+	schema:name "GAG206: Von Verliesen & Drachen – ein 3W6 Crossover" ;
+	schema:episodeNumber 206 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/207> a schema:PodcastEpisode ;
+	schema:name "GAG207: William Stewart Halsted und die Chirurgie des 19. Jahrhunderts" ;
+	schema:episodeNumber 207 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/208> a schema:PodcastEpisode ;
+	schema:name "GAG208: Die kleinste Liga der Welt – Eishockey in der DDR" ;
+	schema:episodeNumber 208 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/209> a schema:PodcastEpisode ;
+	schema:name "GAG209: Cyriacus und die Erfindung der Archäologie" ;
+	schema:episodeNumber 209 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/210> a schema:PodcastEpisode ;
+	schema:name "GAG210: Der Kunstfälscher Han van Meegeren" ;
+	schema:episodeNumber 210 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/211> a schema:PodcastEpisode ;
+	schema:name "GAG211: Griechisches Feuer" ;
+	schema:episodeNumber 211 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/212> a schema:PodcastEpisode ;
+	schema:name "GAG212: Eine kleine Geschichte der Sternbilder" ;
+	schema:episodeNumber 212 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/213> a schema:PodcastEpisode ;
+	schema:name "GAG213: Tom Morris und eine kleine Geschichte des Golfsports" ;
+	schema:episodeNumber 213 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/214> a schema:PodcastEpisode ;
+	schema:name "GAG214: Hedy Lamarr – Hollywoodstar und Erfinderin" ;
+	schema:episodeNumber 214 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/215> a schema:PodcastEpisode ;
+	schema:name "GAG215: Wojtek, polnischer Soldatenbär" ;
+	schema:episodeNumber 215 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/216> a schema:PodcastEpisode ;
+	schema:name "GAG216: Napoleon II. – Vom König von Rom zum Herzog von Reichstadt" ;
+	schema:episodeNumber 216 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/217> a schema:PodcastEpisode ;
+	schema:name "GAG217: Wie Joseph Haydn den Kopf verlor" ;
+	schema:episodeNumber 217 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/218> a schema:PodcastEpisode ;
+	schema:name "GAG218: Die Pazzi-Verschwörung und der Aufstieg der Medici" ;
+	schema:episodeNumber 218 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/219> a schema:PodcastEpisode ;
+	schema:name "GAG219: Die Kotze-Affäre" ;
+	schema:episodeNumber 219 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/220> a schema:PodcastEpisode ;
+	schema:name "GAG220: Eine kurze Geschichte der Rohrpost" ;
+	schema:episodeNumber 220 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/221> a schema:PodcastEpisode ;
+	schema:name "GAG221: Hans Staden – ein Landsknecht bei den Menschenfressern" ;
+	schema:episodeNumber 221 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/222> a schema:PodcastEpisode ;
+	schema:name "GAG222: Das Voynich-Manuskript" ;
+	schema:episodeNumber 222 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/223> a schema:PodcastEpisode ;
+	schema:name "GAG223: Ramen und die Transformation Japans" ;
+	schema:episodeNumber 223 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/224> a schema:PodcastEpisode ;
+	schema:name "GAG224: Die Balmis-Expedition und eine kurze Geschichte der Pockenimpfung" ;
+	schema:episodeNumber 224 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/225> a schema:PodcastEpisode ;
+	schema:name "GAG225: Die Rundfahrt der Schlachtfelder" ;
+	schema:episodeNumber 225 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/226> a schema:PodcastEpisode ;
+	schema:name "GAG226: Der Untergang der Batavia" ;
+	schema:episodeNumber 226 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/227> a schema:PodcastEpisode ;
+	schema:name "GAG227: Die unsterbliche Henrietta Lacks" ;
+	schema:episodeNumber 227 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/228> a schema:PodcastEpisode ;
+	schema:name "GAG228: Berliner Blau – die Erfindung einer Farbe" ;
+	schema:episodeNumber 228 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/229> a schema:PodcastEpisode ;
+	schema:name "GAG229: Elisabeth Báthory, die (angebliche) Blutgräfin" ;
+	schema:episodeNumber 229 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/230> a schema:PodcastEpisode ;
+	schema:name "GAG230: Die Tendaguru-Expedition und das größte Dinosaurierskelett der Welt" ;
+	schema:episodeNumber 230 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/231> a schema:PodcastEpisode ;
+	schema:name "GAG231: Die Große Enttäuschung von 1844" ;
+	schema:episodeNumber 231 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/232> a schema:PodcastEpisode ;
+	schema:name "GAG232: Ein Mordfall und das umfangreichste Wörterbuch der englischen Sprache" ;
+	schema:episodeNumber 232 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/233> a schema:PodcastEpisode ;
+	schema:name "GAG233: Norton I., Kaiser der USA" ;
+	schema:episodeNumber 233 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/234> a schema:PodcastEpisode ;
+	schema:name "GAG234: Das bekannteste Parfüm der Welt und seine russische Vorgeschichte" ;
+	schema:episodeNumber 234 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/235> a schema:PodcastEpisode ;
+	schema:name "GAG235: Die Quarzkrise" ;
+	schema:episodeNumber 235 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/236> a schema:PodcastEpisode ;
+	schema:name "GAG236: Monopoly – Die Geschichte eines Brettspiels" ;
+	schema:episodeNumber 236 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/237> a schema:PodcastEpisode ;
+	schema:name "GAG237: Friedrich Anton Mesmer und der Animalische Magnetismus" ;
+	schema:episodeNumber 237 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/238> a schema:PodcastEpisode ;
+	schema:name "GAG238: Kurze Geschichten ausgestorbener Berufe" ;
+	schema:episodeNumber 238 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/239> a schema:PodcastEpisode ;
+	schema:name "GAG239: Die Zabern-Affäre" ;
+	schema:episodeNumber 239 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/240> a schema:PodcastEpisode ;
+	schema:name "GAG240: René Blondlot und die Entdeckung der N-Strahlen" ;
+	schema:episodeNumber 240 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/241> a schema:PodcastEpisode ;
+	schema:name "GAG241: General Königsmarck und der größte Kunstraub aller Zeiten" ;
+	schema:episodeNumber 241 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/242> a schema:PodcastEpisode ;
+	schema:name "GAG242: Eine kurze Geschichte der Olympischen Spiele (der Neuzeit)" ;
+	schema:episodeNumber 242 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/243> a schema:PodcastEpisode ;
+	schema:name "GAG243: Aeneas Coffey und eine kleine Geschichte des irischen Whiskeys" ;
+	schema:episodeNumber 243 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/244> a schema:PodcastEpisode ;
+	schema:name "GAG244: Die Mühle von Auriol und warum ihre Zerstörung eine Besetzung Frankreichs verhindert hat" ;
+	schema:episodeNumber 244 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/245> a schema:PodcastEpisode ;
+	schema:name "GAG245: Operation Paul Bunyan" ;
+	schema:episodeNumber 245 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/246> a schema:PodcastEpisode ;
+	schema:name "GAG246: John Law und die Mississippi-Blase" ;
+	schema:episodeNumber 246 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/247> a schema:PodcastEpisode ;
+	schema:name "GAG247: Der Emu Krieg von 1932" ;
+	schema:episodeNumber 247 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/248> a schema:PodcastEpisode ;
+	schema:name "GAG248: Der Venustransit von 1761/69 und das erste wissenschaftliche Großprojekt" ;
+	schema:episodeNumber 248 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/249> a schema:PodcastEpisode ;
+	schema:name "GAG249: Das Malireich und die Pilgerreise des vielleicht reichsten Mannes der Geschichte" ;
+	schema:episodeNumber 249 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/250> a schema:PodcastEpisode ;
+	schema:name "GAG250: Eine kurze Geschichte der Bluttransfusion" ;
+	schema:episodeNumber 250 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/251> a schema:PodcastEpisode ;
+	schema:name "GAG251: Der Schachtürke" ;
+	schema:episodeNumber 251 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/252> a schema:PodcastEpisode ;
+	schema:name "GAG252: Harvard Computers – Wie Astronominnen die Sterne neu sortierten" ;
+	schema:episodeNumber 252 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/253> a schema:PodcastEpisode ;
+	schema:name "GAG253: Martin Frobisher und die Steine" ;
+	schema:episodeNumber 253 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/254> a schema:PodcastEpisode ;
+	schema:name "GAG254: Eine kurze Geschichte des Kautschuks" ;
+	schema:episodeNumber 254 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/255> a schema:PodcastEpisode ;
+	schema:name "GAG255: Die 47 Ronin" ;
+	schema:episodeNumber 255 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/256> a schema:PodcastEpisode ;
+	schema:name "GAG256: Der Rütlischwur und die Anfänge der Schweizerischen Eidgenossenschaft" ;
+	schema:episodeNumber 256 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/257> a schema:PodcastEpisode ;
+	schema:name "GAG257: Alexander von Humboldt – Bugtales.FM Crossover" ;
+	schema:episodeNumber 257 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/258> a schema:PodcastEpisode ;
+	schema:name "GAG258: Der Andrews Raid – Eine Lokomotive auf Abwegen" ;
+	schema:episodeNumber 258 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/259> a schema:PodcastEpisode ;
+	schema:name "GAG259: Operation Mincemeat – Eine Geheimdienstaktion während des Zweiten Weltkriegs" ;
+	schema:episodeNumber 259 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/260> a schema:PodcastEpisode ;
+	schema:name "GAG260: Der Rattenfänger von Hameln" ;
+	schema:episodeNumber 260 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/261> a schema:PodcastEpisode ;
+	schema:name "GAG261: Adam Worth, der Napoleon des Verbrechens" ;
+	schema:episodeNumber 261 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/262> a schema:PodcastEpisode ;
+	schema:name "GAG262: Die Strawhat Riots" ;
+	schema:episodeNumber 262 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/263> a schema:PodcastEpisode ;
+	schema:name "GAG263: Lavoisier und die Entdeckung des Sauerstoffs" ;
+	schema:episodeNumber 263 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/264> a schema:PodcastEpisode ;
+	schema:name "GAG264: Seondeok, erste Königin Koreas" ;
+	schema:episodeNumber 264 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/265> a schema:PodcastEpisode ;
+	schema:name "GAG265: Syphilis und die Tuskegee-Syphilis-Studie" ;
+	schema:episodeNumber 265 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/266> a schema:PodcastEpisode ;
+	schema:name "GAG266: Die Schlacht von Azincourt" ;
+	schema:episodeNumber 266 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/267> a schema:PodcastEpisode ;
+	schema:name "GAG267: Die Leichensynode von 897" ;
+	schema:episodeNumber 267 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/268> a schema:PodcastEpisode ;
+	schema:name "GAG268: Die Gebrüder Kellogg und die Erfindung des Frühstücks" ;
+	schema:episodeNumber 268 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/269> a schema:PodcastEpisode ;
+	schema:name "GAG269: Monika Ertl und ein Mord im Generalkonsulat" ;
+	schema:episodeNumber 269 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/270> a schema:PodcastEpisode ;
+	schema:name "GAG270: Eine thüringische Katastrophe" ;
+	schema:episodeNumber 270 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/271> a schema:PodcastEpisode ;
+	schema:name "GAG271: Caroline Neuber und der Hanswurststreit" ;
+	schema:episodeNumber 271 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/272> a schema:PodcastEpisode ;
+	schema:name "GAG272: Am Ende der Welt – Napoleons letzte Jahre im Exil" ;
+	schema:episodeNumber 272 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/273> a schema:PodcastEpisode ;
+	schema:name "GAG273: Der Alchemist und Goldmacher Franz Tausend" ;
+	schema:episodeNumber 273 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/274> a schema:PodcastEpisode ;
+	schema:name "GAG274: Das Petzvalobjektiv" ;
+	schema:episodeNumber 274 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/275> a schema:PodcastEpisode ;
+	schema:name "GAG275: Victor Lustig – Der Mann, der den Eiffelturm verkaufte" ;
+	schema:episodeNumber 275 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/276> a schema:PodcastEpisode ;
+	schema:name "GAG276: Aufruhr am Sankt-Scholastika-Tag" ;
+	schema:episodeNumber 276 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/277> a schema:PodcastEpisode ;
+	schema:name "GAG277: Der Aufstand und Putsch von Wilmington" ;
+	schema:episodeNumber 277 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/278> a schema:PodcastEpisode ;
+	schema:name "GAG278: Von göttlichen Robotern und feuerspeienden Bullen" ;
+	schema:episodeNumber 278 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/279> a schema:PodcastEpisode ;
+	schema:name "GAG279: Muskat und Manhattan" ;
+	schema:episodeNumber 279 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/280> a schema:PodcastEpisode ;
+	schema:name "GAG280: Der versunkene Kontinent Lemuria" ;
+	schema:episodeNumber 280 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/281> a schema:PodcastEpisode ;
+	schema:name "GAG281: Der Putschversuch vom 23. Februar 1981" ;
+	schema:episodeNumber 281 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/282> a schema:PodcastEpisode ;
+	schema:name "GAG282: Fredegund, Brunhild und der merowingische Bruderkrieg" ;
+	schema:episodeNumber 282 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/283> a schema:PodcastEpisode ;
+	schema:name "GAG283: Lola Montez" ;
+	schema:episodeNumber 283 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/284> a schema:PodcastEpisode ;
+	schema:name "GAG284: „There is death in the pot“ – Friedrich Accum und die Lebensmittelfälscher" ;
+	schema:episodeNumber 284 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/285> a schema:PodcastEpisode ;
+	schema:name "GAG285: Joseph Petrosino und die Black Hand" ;
+	schema:episodeNumber 285 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/286> a schema:PodcastEpisode ;
+	schema:name "GAG286: Die verschwundenen Seefrauen Islands" ;
+	schema:episodeNumber 286 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/287> a schema:PodcastEpisode ;
+	schema:name "GAG287: Eine kurze Geschichte des Ballonfahrens und Fallschirmspringens" ;
+	schema:episodeNumber 287 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/288> a schema:PodcastEpisode ;
+	schema:name "GAG288: Der Senat, der über Leichen ging" ;
+	schema:episodeNumber 288 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/289> a schema:PodcastEpisode ;
+	schema:name "GAG289: Ein Kreuzzug, der einen ungeahnten Verlauf nahm" ;
+	schema:episodeNumber 289 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/290> a schema:PodcastEpisode ;
+	schema:name "GAG290: Der Angriff der Leichten Brigade" ;
+	schema:episodeNumber 290 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/291> a schema:PodcastEpisode ;
+	schema:name "GAG291: Ein erfolgreicher Kampf gegen die Kolonialisierung" ;
+	schema:episodeNumber 291 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/292> a schema:PodcastEpisode ;
+	schema:name "GAG292: Paul Grüninger" ;
+	schema:episodeNumber 292 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/293> a schema:PodcastEpisode ;
+	schema:name "GAG293: Als in Europa Menschen ausgestellt wurden" ;
+	schema:episodeNumber 293 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/294> a schema:PodcastEpisode ;
+	schema:name "GAG294: Erwin Kreuz" ;
+	schema:episodeNumber 294 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/295> a schema:PodcastEpisode ;
+	schema:name "GAG295: Die Verwandlung des Axolotls" ;
+	schema:episodeNumber 295 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/296> a schema:PodcastEpisode ;
+	schema:name "GAG296: Jeanne la Flamme und der bretonische Erbfolgekrieg" ;
+	schema:episodeNumber 296 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/297> a schema:PodcastEpisode ;
+	schema:name "GAG297: Die Revolutionärin und (fast) vergessene Pionierin der Frauenbewegung – Mathilde Franziska Anneke" ;
+	schema:episodeNumber 297 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/298> a schema:PodcastEpisode ;
+	schema:name "GAG298: Die Grüne Fee und der Absinthismus" ;
+	schema:episodeNumber 298 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/299> a schema:PodcastEpisode ;
+	schema:name "GAG299: Wie Basketball von James Naismith erfunden wurde" ;
+	schema:episodeNumber 299 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/300> a schema:PodcastEpisode ;
+	schema:name "GAG300: Der vorläufige Höhepunkt" ;
+	schema:episodeNumber 300 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/301> a schema:PodcastEpisode ;
+	schema:name "GAG301: Mary Seacole" ;
+	schema:episodeNumber 301 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/302> a schema:PodcastEpisode ;
+	schema:name "GAG302: Sealand und die Gründung einer Mikronation" ;
+	schema:episodeNumber 302 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/303> a schema:PodcastEpisode ;
+	schema:name "GAG303: Brunelleschi und die Kathedrale von Florenz" ;
+	schema:episodeNumber 303 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/304> a schema:PodcastEpisode ;
+	schema:name "GAG304: Der Falschgeldbetrug von Alves dos Reis" ;
+	schema:episodeNumber 304 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/305> a schema:PodcastEpisode ;
+	schema:name "GAG305: Der Piltdown-Mensch" ;
+	schema:episodeNumber 305 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/306> a schema:PodcastEpisode ;
+	schema:name "GAG306: Motoren, Krieg und Inflation – Aufstieg und Fall des Unternehmers Camillo Castiglioni" ;
+	schema:episodeNumber 306 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/307> a schema:PodcastEpisode ;
+	schema:name "GAG307: Njinga, Königin von Ndongo und Matamba" ;
+	schema:episodeNumber 307 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/308> a schema:PodcastEpisode ;
+	schema:name "GAG308: Eine kurze Geschichte des Urlaubs und Reisens" ;
+	schema:episodeNumber 308 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/309> a schema:PodcastEpisode ;
+	schema:name "GAG309: Die Bestie des Gévaudan" ;
+	schema:episodeNumber 309 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/310> a schema:PodcastEpisode ;
+	schema:name "GAG310: Arbeitskampf, Streik und das Leben der Gewerkschaftspionierin Paula Thiede" ;
+	schema:episodeNumber 310 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/311> a schema:PodcastEpisode ;
+	schema:name "GAG311: Der Imjin-Krieg" ;
+	schema:episodeNumber 311 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/312> a schema:PodcastEpisode ;
+	schema:name "GAG312: Der beste aller Ritter – das Leben von Guillaume le Maréchal" ;
+	schema:episodeNumber 312 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/313> a schema:PodcastEpisode ;
+	schema:name "GAG313: Die Geschwister Herschel" ;
+	schema:episodeNumber 313 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/314> a schema:PodcastEpisode ;
+	schema:name "GAG314: Eine kurze Geschichte der Cholera" ;
+	schema:episodeNumber 314 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/315> a schema:PodcastEpisode ;
+	schema:name "GAG315: Der Mehlkrieg von 1775" ;
+	schema:episodeNumber 315 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/316> a schema:PodcastEpisode ;
+	schema:name "GAG316: Die Shakespeare-Unruhen" ;
+	schema:episodeNumber 316 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/317> a schema:PodcastEpisode ;
+	schema:name "GAG317: Roger Tichborne – die wundersame Rückkehr des Sohnes" ;
+	schema:episodeNumber 317 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/318> a schema:PodcastEpisode ;
+	schema:name "GAG318: Der Nuklearunfall von Goiânia" ;
+	schema:episodeNumber 318 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/319> a schema:PodcastEpisode ;
+	schema:name "GAG319: Ashoka der Große" ;
+	schema:episodeNumber 319 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/320> a schema:PodcastEpisode ;
+	schema:name "GAG320: In 72 Tagen um die Welt – Journalistin Nellie Bly" ;
+	schema:episodeNumber 320 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/321> a schema:PodcastEpisode ;
+	schema:name "GAG321: Aufstieg und möglicher Fall der Banane" ;
+	schema:episodeNumber 321 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/322> a schema:PodcastEpisode ;
+	schema:name "GAG322: Portugal und der Seeweg nach Indien" ;
+	schema:episodeNumber 322 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/323> a schema:PodcastEpisode ;
+	schema:name "GAG323: Die Republik Ezo und das Ende des Shogunats" ;
+	schema:episodeNumber 323 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/324> a schema:PodcastEpisode ;
+	schema:name "GAG324: Mit dem Ballon zum Nordpol – Andrées Polarexpedition von 1897" ;
+	schema:episodeNumber 324 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/325> a schema:PodcastEpisode ;
+	schema:name "GAG325: Der Große Smog von 1952" ;
+	schema:episodeNumber 325 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/326> a schema:PodcastEpisode ;
+	schema:name "GAG326: Ausgestorbene und außergewöhnliche Berufe" ;
+	schema:episodeNumber 326 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/327> a schema:PodcastEpisode ;
+	schema:name "GAG327: Das große Geburtenrennen von Toronto" ;
+	schema:episodeNumber 327 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/328> a schema:PodcastEpisode ;
+	schema:name "GAG328: P. T. Barnum und die größte Show der Welt" ;
+	schema:episodeNumber 328 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/329> a schema:PodcastEpisode ;
+	schema:name "GAG329: Wie der Wolf zum Hund wurde" ;
+	schema:episodeNumber 329 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/330> a schema:PodcastEpisode ;
+	schema:name "GAG330: Zum Tode verurteilt – Catharina Linck alias Anastasius Lagrantinus Rosenstengel" ;
+	schema:episodeNumber 330 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/331> a schema:PodcastEpisode ;
+	schema:name "GAG331: Wie Tetris die Welt eroberte" ;
+	schema:episodeNumber 331 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/332> a schema:PodcastEpisode ;
+	schema:name "GAG332: Wie Gregor MacGregor ein Land verkaufte, das es gar nicht gab" ;
+	schema:episodeNumber 332 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/333> a schema:PodcastEpisode ;
+	schema:name "GAG333: Alexandria" ;
+	schema:episodeNumber 333 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/334> a schema:PodcastEpisode ;
+	schema:name "GAG334: Rachel Carson und der stumme Frühling" ;
+	schema:episodeNumber 334 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/335> a schema:PodcastEpisode ;
+	schema:name "GAG335: Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts" ;
+	schema:episodeNumber 335 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/336> a schema:PodcastEpisode ;
+	schema:name "GAG336: George Smith und die Entdeckung des Gilgamesch-Epos" ;
+	schema:episodeNumber 336 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/337> a schema:PodcastEpisode ;
+	schema:name "GAG337: Über Hummer, Kaviar und wie das Loch in den Donut kam" ;
+	schema:episodeNumber 337 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/338> a schema:PodcastEpisode ;
+	schema:name "GAG338: Eine neue Gesellschaft – Frühsozialist Robert Owen" ;
+	schema:episodeNumber 338 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/339> a schema:PodcastEpisode ;
+	schema:name "GAG339: Der Vocoder" ;
+	schema:episodeNumber 339 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/340> a schema:PodcastEpisode ;
+	schema:name "GAG340: Tauben, die Raketen steuern und Kybernetik" ;
+	schema:episodeNumber 340 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/341> a schema:PodcastEpisode ;
+	schema:name "GAG341: Der Exorzismus der Marthe Brossier" ;
+	schema:episodeNumber 341 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/342> a schema:PodcastEpisode ;
+	schema:name "GAG342: Das Stockholmer Blutbad" ;
+	schema:episodeNumber 342 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/343> a schema:PodcastEpisode ;
+	schema:name "GAG343: Phoebus und die geplante Obsoleszenz" ;
+	schema:episodeNumber 343 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/344> a schema:PodcastEpisode ;
+	schema:name "GAG344: Der Artischockenkrieg" ;
+	schema:episodeNumber 344 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/345> a schema:PodcastEpisode ;
+	schema:name "GAG345: Suffrajitsu" ;
+	schema:episodeNumber 345 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/346> a schema:PodcastEpisode ;
+	schema:name "GAG346: Die längste Hängebrücke der Welt" ;
+	schema:episodeNumber 346 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/347> a schema:PodcastEpisode ;
+	schema:name "GAG347: Adrianopel 378" ;
+	schema:episodeNumber 347 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/348> a schema:PodcastEpisode ;
+	schema:name "GAG348: Der Anschlag auf die Mosel" ;
+	schema:episodeNumber 348 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/349> a schema:PodcastEpisode ;
+	schema:name "GAG349: Konstantin Phaulkon im Königreich Ayutthaya" ;
+	schema:episodeNumber 349 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/350> a schema:PodcastEpisode ;
+	schema:name "GAG350: Der Bauernkrieg und die Revolution von 1525" ;
+	schema:episodeNumber 350 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/351> a schema:PodcastEpisode ;
+	schema:name "GAG351: Die Erfindung des Saxophons – Aufstieg und Fall des Adolphe Sax" ;
+	schema:episodeNumber 351 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/352> a schema:PodcastEpisode ;
+	schema:name "GAG352: Wallace und das Rennen um die Evolutionstheorie" ;
+	schema:episodeNumber 352 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/353> a schema:PodcastEpisode ;
+	schema:name "GAG353: Wallada" ;
+	schema:episodeNumber 353 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/354> a schema:PodcastEpisode ;
+	schema:name "GAG354: Die Halsbandaffäre" ;
+	schema:episodeNumber 354 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/355> a schema:PodcastEpisode ;
+	schema:name "GAG355: Der Englische Schweiß" ;
+	schema:episodeNumber 355 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/356> a schema:PodcastEpisode ;
+	schema:name "GAG356: Das DeLorean-Drama" ;
+	schema:episodeNumber 356 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/357> a schema:PodcastEpisode ;
+	schema:name "GAG357: Mary Kingsley" ;
+	schema:episodeNumber 357 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/358> a schema:PodcastEpisode ;
+	schema:name "GAG358: Philipp Reis und die Erfindung des Telefons" ;
+	schema:episodeNumber 358 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/359> a schema:PodcastEpisode ;
+	schema:name "GAG359: Eine kleine Geschichte des Schachspiels" ;
+	schema:episodeNumber 359 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/360> a schema:PodcastEpisode ;
+	schema:name "GAG360: Unglück am Matterhorn" ;
+	schema:episodeNumber 360 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/361> a schema:PodcastEpisode ;
+	schema:name "GAG361: Gustave Trouvé – der vergessene Erfinder" ;
+	schema:episodeNumber 361 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/362> a schema:PodcastEpisode ;
+	schema:name "GAG362: Bayerns letzte Kurfürstin" ;
+	schema:episodeNumber 362 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/363> a schema:PodcastEpisode ;
+	schema:name "GAG363: Duke Kahanamoku" ;
+	schema:episodeNumber 363 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/364> a schema:PodcastEpisode ;
+	schema:name "GAG364: Mord und Madrigale – Carlo Gesualdo" ;
+	schema:episodeNumber 364 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/365> a schema:PodcastEpisode ;
+	schema:name "GAG365: The Ghost Army" ;
+	schema:episodeNumber 365 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/366> a schema:PodcastEpisode ;
+	schema:name "GAG366: Das Attentat von Anagni" ;
+	schema:episodeNumber 366 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/367> a schema:PodcastEpisode ;
+	schema:name "GAG367: Untergang und Comeback der VASA" ;
+	schema:episodeNumber 367 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/368> a schema:PodcastEpisode ;
+	schema:name "GAG368: Wie das Jod ins Salz kam" ;
+	schema:episodeNumber 368 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/369> a schema:PodcastEpisode ;
+	schema:name "GAG369: Der Struwwelpeter" ;
+	schema:episodeNumber 369 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/370> a schema:PodcastEpisode ;
+	schema:name "GAG370: Der Kodex des Archimedes" ;
+	schema:episodeNumber 370 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/371> a schema:PodcastEpisode ;
+	schema:name "GAG371: Galla Placidia" ;
+	schema:episodeNumber 371 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/372> a schema:PodcastEpisode ;
+	schema:name "GAG372: Wie das Roulette eine Null verlor" ;
+	schema:episodeNumber 372 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/373> a schema:PodcastEpisode ;
+	schema:name "GAG373: Morocco und der Kluge Hans" ;
+	schema:episodeNumber 373 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/374> a schema:PodcastEpisode ;
+	schema:name "GAG374: Ludwik Fleck und das Fleckfieber" ;
+	schema:episodeNumber 374 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/375> a schema:PodcastEpisode ;
+	schema:name "GAG375: Sofia Kowalewskaja, „Königin der Wissenschaft“" ;
+	schema:episodeNumber 375 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/376> a schema:PodcastEpisode ;
+	schema:name "GAG376: Nagelmackers und der Orient-Express" ;
+	schema:episodeNumber 376 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/377> a schema:PodcastEpisode ;
+	schema:name "GAG377: Aufstieg und Fall des Templerordens" ;
+	schema:episodeNumber 377 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/378> a schema:PodcastEpisode ;
+	schema:name "GAG378: Ein langer Marsch durch Feindesland" ;
+	schema:episodeNumber 378 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/379> a schema:PodcastEpisode ;
+	schema:name "GAG379: Theodor von Neuhoff – König von Korsika" ;
+	schema:episodeNumber 379 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/380> a schema:PodcastEpisode ;
+	schema:name "GAG380: Das Maß aller Dinge" ;
+	schema:episodeNumber 380 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/381> a schema:PodcastEpisode ;
+	schema:name "GAG381: Mau Piailug und die Besiedelung des Pazifiks" ;
+	schema:episodeNumber 381 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/382> a schema:PodcastEpisode ;
+	schema:name "GAG382: Der erste Film" ;
+	schema:episodeNumber 382 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/383> a schema:PodcastEpisode ;
+	schema:name "GAG383: Bletchley Park" ;
+	schema:episodeNumber 383 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/384> a schema:PodcastEpisode ;
+	schema:name "GAG384: Flaschenpost und die Erforschung der Ozeane" ;
+	schema:episodeNumber 384 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/385> a schema:PodcastEpisode ;
+	schema:name "GAG385: Delmonico’s und der erste Starkoch der USA" ;
+	schema:episodeNumber 385 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/386> a schema:PodcastEpisode ;
+	schema:name "GAG386: Der Wettlauf zum Nordpol" ;
+	schema:episodeNumber 386 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/387> a schema:PodcastEpisode ;
+	schema:name "GAG387: Nurhaci und die Entstehung der Mandschu" ;
+	schema:episodeNumber 387 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/388> a schema:PodcastEpisode ;
+	schema:name "GAG388: Marie Tussaud und die Wachsfiguren" ;
+	schema:episodeNumber 388 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/389> a schema:PodcastEpisode ;
+	schema:name "GAG389: Spieglein, Spieglein an der Wand" ;
+	schema:episodeNumber 389 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/390> a schema:PodcastEpisode ;
+	schema:name "GAG390: Kleopatra Selene und das Ende der Römischen Republik" ;
+	schema:episodeNumber 390 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/391> a schema:PodcastEpisode ;
+	schema:name "GAG391: Celia Cooney, die Banditin mit der Kurzhaarfrisur" ;
+	schema:episodeNumber 391 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/392> a schema:PodcastEpisode ;
+	schema:name "GAG392: Phosphor und der Streik der Streichholzarbeiterinnen" ;
+	schema:episodeNumber 392 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/393> a schema:PodcastEpisode ;
+	schema:name "GAG393: Die Schlacht von Zama" ;
+	schema:episodeNumber 393 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/394> a schema:PodcastEpisode ;
+	schema:name "GAG394: Die Verurteilung von Sacco und Vanzetti" ;
+	schema:episodeNumber 394 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/395> a schema:PodcastEpisode ;
+	schema:name "GAG395: Barbe-Nicole Ponsardin und die Begründung eines Champagnerimperiums" ;
+	schema:episodeNumber 395 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/396> a schema:PodcastEpisode ;
+	schema:name "GAG396: Helene Kottannerin und der Raub der Stephanskrone" ;
+	schema:episodeNumber 396 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/397> a schema:PodcastEpisode ;
+	schema:name "GAG397: Hy Brasil" ;
+	schema:episodeNumber 397 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/398> a schema:PodcastEpisode ;
+	schema:name "GAG398: Der Goldene Brief" ;
+	schema:episodeNumber 398 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/399> a schema:PodcastEpisode ;
+	schema:name "GAG399: John Brown und sein gescheiterter Sklavenaufstand" ;
+	schema:episodeNumber 399 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/400> a schema:PodcastEpisode ;
+	schema:name "GAG400: GAG X Anno Mundi – Anicia Juliana" ;
+	schema:episodeNumber 400 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/401> a schema:PodcastEpisode ;
+	schema:name "GAG401: Amerika und die Weltkarte von Waldseemüller" ;
+	schema:episodeNumber 401 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/402> a schema:PodcastEpisode ;
+	schema:name "GAG402: Die Vegetarian Society und die Begründung des modernen Vegetarismus" ;
+	schema:episodeNumber 402 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/403> a schema:PodcastEpisode ;
+	schema:name "GAG403: Maxentius – Der letzte Kaiser in Rom" ;
+	schema:episodeNumber 403 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/404> a schema:PodcastEpisode ;
+	schema:name "GAG404: Not Found" ;
+	schema:episodeNumber 404 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/405> a schema:PodcastEpisode ;
+	schema:name "GAG405: Bonifatius, Apostel der Deutschen" ;
+	schema:episodeNumber 405 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/406> a schema:PodcastEpisode ;
+	schema:name "GAG406: Die SMS Wolf und die Piraten des Kaisers" ;
+	schema:episodeNumber 406 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/407> a schema:PodcastEpisode ;
+	schema:name "GAG407: Das katastrophale Ende einer Kolonie" ;
+	schema:episodeNumber 407 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/408> a schema:PodcastEpisode ;
+	schema:name "GAG408: Das kurze und tragische Leben des Évariste Galois" ;
+	schema:episodeNumber 408 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/409> a schema:PodcastEpisode ;
+	schema:name "GAG409: Pferdefotos und ein Mord" ;
+	schema:episodeNumber 409 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/410> a schema:PodcastEpisode ;
+	schema:name "GAG410: Lady Six Sky und eine kurze Geschichte der Maya" ;
+	schema:episodeNumber 410 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/411> a schema:PodcastEpisode ;
+	schema:name "GAG411: Der Untergang der Thomas W. Lawson" ;
+	schema:episodeNumber 411 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/412> a schema:PodcastEpisode ;
+	schema:name "GAG412: Samuel Pepys und das außergewöhnlichste Tagebuch des 17. Jahrhunderts" ;
+	schema:episodeNumber 412 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/413> a schema:PodcastEpisode ;
+	schema:name "GAG413: Paracelsus – Arzt und Alchemist" ;
+	schema:episodeNumber 413 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/414> a schema:PodcastEpisode ;
+	schema:name "GAG414: Ibn Fadlān und die Reise zur Wolga" ;
+	schema:episodeNumber 414 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/415> a schema:PodcastEpisode ;
+	schema:name "GAG415: Polarpionier Fridtjof Nansen" ;
+	schema:episodeNumber 415 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/416> a schema:PodcastEpisode ;
+	schema:name "GAG416: Wie das Münzgeld entstand" ;
+	schema:episodeNumber 416 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/417> a schema:PodcastEpisode ;
+	schema:name "GAG417: Auf der Suche nach den Quellen des Nils" ;
+	schema:episodeNumber 417 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/418> a schema:PodcastEpisode ;
+	schema:name "GAG418: Das älteste Gewürz der Welt" ;
+	schema:episodeNumber 418 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/419> a schema:PodcastEpisode ;
+	schema:name "GAG419: Therese von Thurn und Taxis und das Ende der Reichspost" ;
+	schema:episodeNumber 419 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/420> a schema:PodcastEpisode ;
+	schema:name "GAG420: Harry Anslinger und der erste „War on Drugs“" ;
+	schema:episodeNumber 420 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/421> a schema:PodcastEpisode ;
+	schema:name "GAG421: Playfair und die Erfindung des Balkendiagramms" ;
+	schema:episodeNumber 421 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/422> a schema:PodcastEpisode ;
+	schema:name "GAG422: Eine kleine Geschichte der Parapsychologie" ;
+	schema:episodeNumber 422 .
+
+<http://gag-flickenteppich.marc-schaetz.de/id/423> a schema:PodcastEpisode ;
+	schema:name "GAG423: Der Sohn Gottes Hong Xiuquan und sein Aufstand gegen das imperiale China" ;
+	schema:episodeNumber 423 .
